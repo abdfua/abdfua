@@ -1,6 +1,4 @@
-Here's a professional GitHub profile README tailored to showcase your expertise based on the Senior Fullstack Engineer vacancy:  
 
----
 
  👋 Hey there, I'm Abdo Fuad  
 🚀 Senior Fullstack Engineer | Java, Spring Boot, Next.js, React | Cloud & Microservices Enthusiast  
